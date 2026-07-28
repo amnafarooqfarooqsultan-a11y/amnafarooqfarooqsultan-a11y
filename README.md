@@ -20,13 +20,15 @@ Welcome to my GitHub Profile! ✨
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amnafarooqfarooqsultan-a11y
+&show_icons=true&theme=tokyonight" />
 </p>
 
 ##  GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=amnafarooqfarooqsultan-a11y
+&theme=tokyonight" />
 </p>
 I enjoy building clean and modern web interfaces using HTML, CSS, Bootstrap, and JavaScript. My goal is to continue growing as a developer and become an AI Engineer in the future.
 
