@@ -20,7 +20,7 @@ Welcome to my GitHub Profile! ✨
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?amnafarooqfarooqsultan-a11y&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamnafarooqfarooqsultan-a11y&layout=compact&theme=tokyonight" />
 </p>
 
 ## 📫 Connect with Me
