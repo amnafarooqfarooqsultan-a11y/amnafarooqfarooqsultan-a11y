@@ -17,18 +17,21 @@ Welcome to my GitHub Profile! ✨
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,figma,vscode" />
 </p>
-##  GitHub Stats
+## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amnafarooqfarooqsultan-a11y
-&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?amnafarooqfarooqsultan-a11y&layout=compact&theme=tokyonight" />
 </p>
 
-##  GitHub Streak
+## 📫 Connect with Me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amnafarooqfarooqsultan-a11y
-&theme=tokyonight" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/amna-farooq-sultan-68923a404" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:amnafarooqfarooqsultan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 I enjoy building clean and modern web interfaces using HTML, CSS, Bootstrap, and JavaScript. My goal is to continue growing as a developer and become an AI Engineer in the future.
 
