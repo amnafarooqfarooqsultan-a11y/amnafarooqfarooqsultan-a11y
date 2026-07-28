@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Aamna+Farooq+Sultan+(AFSUN)!;💻+Front-End+Developer;🌱+Currently+Learning+JavaScript;🤖+Aspiring+AI+Engineer;✨+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
-## Hi there 👋
 # Hi there, I'm Aamna Farooq Sultan (AFSUN) 👋
 
 ### 💻 Front-End Developer
@@ -16,11 +15,6 @@ Welcome to my GitHub Profile! ✨
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,figma,vscode" />
-</p>
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamnafarooqfarooqsultan-a11y&layout=compact&theme=tokyonight" />
 </p>
 ## 📫 Connect with Me
 
