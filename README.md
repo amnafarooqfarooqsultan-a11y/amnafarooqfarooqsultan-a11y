@@ -12,7 +12,11 @@
 ### 🌱 Currently Learning JavaScript
 
 Welcome to my GitHub Profile! ✨
+## 🛠️ Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,figma,vscode" />
+</p>
 I enjoy building clean and modern web interfaces using HTML, CSS, Bootstrap, and JavaScript. My goal is to continue growing as a developer and become an AI Engineer in the future.
 
 - 🌐 Front-End Development
