@@ -22,7 +22,6 @@ Welcome to my GitHub Profile! ✨
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamnafarooqfarooqsultan-a11y&layout=compact&theme=tokyonight" />
 </p>
-
 ## 📫 Connect with Me
 
 <p align="left">
