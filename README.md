@@ -1,5 +1,18 @@
 ## Hi there 👋
+# Hi there, I'm Aamna Farooq Sultan (AFSUN) 👋
 
+### 💻 Front-End Developer
+### 🤖 Aspiring AI Engineer
+### 🌱 Currently Learning JavaScript
+
+Welcome to my GitHub Profile! ✨
+
+I enjoy building clean and modern web interfaces using HTML, CSS, Bootstrap, and JavaScript. My goal is to continue growing as a developer and become an AI Engineer in the future.
+
+- 🌐 Front-End Development
+- 🎨 UI Design with Figma
+- 📚 Always Learning New Technologies
+- 🚀 Building Projects Every Day
 <!--
 **amnafarooqfarooqsultan-a11y/amnafarooqfarooqsultan-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
