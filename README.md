@@ -17,6 +17,17 @@ Welcome to my GitHub Profile! ✨
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,figma,vscode" />
 </p>
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+##  GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 I enjoy building clean and modern web interfaces using HTML, CSS, Bootstrap, and JavaScript. My goal is to continue growing as a developer and become an AI Engineer in the future.
 
 - 🌐 Front-End Development
